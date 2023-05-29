@@ -32,4 +32,5 @@
     require_once("Libraries/Core/Load.php");
 
     //comentario de teste de versionamento
+    echo "OLA MUNDO";
 ?>
